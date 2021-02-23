@@ -5,6 +5,7 @@
 </p>
 
 <img align="right" alt="Pokedex" src="screenshot.jpeg" width="250px">
+
 ## 💻 Projeto
 
 Pokedex feito com SwiftUI
