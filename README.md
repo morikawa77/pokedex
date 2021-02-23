@@ -7,7 +7,7 @@
 <br>
 
 <p align="right">
-  <img alt="Pokedex" src="screenshot.jpeg" width="30%">
+  <img alt="Pokedex" src="screenshot.jpeg" width="250px">
 </p>
 
 ## 💻 Projeto
